@@ -1,1 +1,2 @@
 # Fifa-21-Exploratory-data-analysis
+Utilizing the publicly available FIFA 21 dataset, player statisticsweresubjected to an exploratory data analysis, involving data cleaning and sorting. Multiple problemstatementswere derived from the dataset, leading to insightful conclusions. The resulting dashboard features variouscharts for effective visualization, aiding users in identifying top-performing players and/or their respectiveregions.
